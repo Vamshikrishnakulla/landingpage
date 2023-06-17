@@ -103,7 +103,7 @@ body {
 .bottom .but {
     display: inline-block;
     width: 49%;
-    padding: 20px;
+    padding: 5px;
     text-align: center;
 }
 .bottom button {
