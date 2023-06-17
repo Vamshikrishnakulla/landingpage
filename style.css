@@ -103,7 +103,7 @@ body {
 .bottom .but {
     display: inline-block;
     width: 49%;
-    padding: 5px;
+    padding: 20px;
     text-align: center;
 }
 .bottom button {
@@ -147,6 +147,9 @@ footer img {
     }
     .lefthead {
         width: 100%;
+    }
+    .bottom .but {
+        padding: 20px 5px;
     }
     .bottom button {
         font-size: 17px;
